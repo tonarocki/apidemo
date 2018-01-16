@@ -202,7 +202,7 @@ curut2.put(function(req,res,next){
      });
 
 });
-
+//sdf
 //delete data
 curut2.delete(function(req,res,next){
 
